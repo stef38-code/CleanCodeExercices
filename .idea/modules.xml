@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CleanCodeExercices.iml" filepath="$PROJECT_DIR$/.idea/CleanCodeExercices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gilded-rose-kata/gilded-rose-kata.iml" filepath="$PROJECT_DIR$/gilded-rose-kata/gilded-rose-kata.iml" />
     </modules>
   </component>
 </project>
