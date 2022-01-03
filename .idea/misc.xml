@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/gilded-rose-kata/pom.xml" />
         <option value="$PROJECT_DIR$/Tennis-Refactoring-Kata/pom.xml" />
+        <option value="$PROJECT_DIR$/trip-service-kata/pom.xml" />
       </list>
     </option>
   </component>

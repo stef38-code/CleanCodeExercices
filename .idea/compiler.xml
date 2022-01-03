@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="gilded-rose-kata" />
         <module name="Tennis-Refactoring-Kata" />
+        <module name="trip-service-kata" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="gilded-rose-kata" target="11" />
       <module name="Tennis-Refactoring-Kata" target="11" />
+      <module name="trip-service-kata" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
