@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Tennis-Refactoring-Kata/Tennis-Refactoring-Kata.iml" filepath="$PROJECT_DIR$/Tennis-Refactoring-Kata/Tennis-Refactoring-Kata.iml" />
       <module fileurl="file://$PROJECT_DIR$/gilded-rose-kata/gilded-rose-kata.iml" filepath="$PROJECT_DIR$/gilded-rose-kata/gilded-rose-kata.iml" />
       <module fileurl="file://$PROJECT_DIR$/trip-service-kata/trip-service-kata.iml" filepath="$PROJECT_DIR$/trip-service-kata/trip-service-kata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trivia/trivia.iml" filepath="$PROJECT_DIR$/trivia/trivia.iml" />
     </modules>
   </component>
 </project>

@@ -6,3 +6,4 @@ https://understandlegacycode.com/blog/5-coding-exercises-to-practice-refactoring
 1. gilded-rose-kata
 2. Tennis-Refactoring-Kata
 3. trip-service-kata
+4. trivia
