@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="gilded-rose-kata" />
+        <module name="Tennis-Refactoring-Kata" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="gilded-rose-kata" target="11" />
+      <module name="Tennis-Refactoring-Kata" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
