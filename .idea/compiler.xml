@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="trivia" />
         <module name="Tennis-Refactoring-Kata" />
+        <module name="baby-steps-timer" />
         <module name="gilded-rose-kata" />
         <module name="trip-service-kata" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="baby-steps-timer" target="11" />
       <module name="gilded-rose-kata" target="11" />
       <module name="Tennis-Refactoring-Kata" target="11" />
       <module name="trip-service-kata" target="11" />

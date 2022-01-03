@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CleanCodeExercices.iml" filepath="$PROJECT_DIR$/.idea/CleanCodeExercices.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tennis-Refactoring-Kata/Tennis-Refactoring-Kata.iml" filepath="$PROJECT_DIR$/Tennis-Refactoring-Kata/Tennis-Refactoring-Kata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baby-steps-timer/baby-steps-timer.iml" filepath="$PROJECT_DIR$/baby-steps-timer/baby-steps-timer.iml" />
       <module fileurl="file://$PROJECT_DIR$/gilded-rose-kata/gilded-rose-kata.iml" filepath="$PROJECT_DIR$/gilded-rose-kata/gilded-rose-kata.iml" />
       <module fileurl="file://$PROJECT_DIR$/trip-service-kata/trip-service-kata.iml" filepath="$PROJECT_DIR$/trip-service-kata/trip-service-kata.iml" />
       <module fileurl="file://$PROJECT_DIR$/trivia/trivia.iml" filepath="$PROJECT_DIR$/trivia/trivia.iml" />
